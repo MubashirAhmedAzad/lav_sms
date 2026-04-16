@@ -1,13 +1,7 @@
 <?php
 
-namespace App;
+namespace App\Models;
 
-use App\Models\BloodGroup;
-use App\Models\Lga;
-use App\Models\Nationality;
-use App\Models\StaffRecord;
-use App\Models\State;
-use App\Models\StudentRecord;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
